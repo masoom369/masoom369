@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate 
 - 📫 How to reach me
-- masoom2305f@aptechgdn.net
+- masoom2369@gmail.com
 
 <!---
 masoom369/masoom369 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
