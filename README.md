@@ -5,16 +5,11 @@
 
 - 🌱 I’m currently learning **web development**
 
-- 👨‍💻 All of my projects are available at [https://masoom369.github.io/Portfolio/](https://github.com/masoom369?tab=repositories)
+- 👨‍💻 All of my projects are available at [masoom369/repos](https://github.com/masoom369?tab=repositories)
 
 - 💬 Ask me about **any of my skills**
 
 - 📫 How to reach me **masoom2305f@aptechgdn.net**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=masoom369&label=Profile%20views&color=0e75b6&style=flat" alt="masoom369" />
-</p>
 
 <!-- GitHub Profile Trophy -->
 <p align="left">
@@ -22,13 +17,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=masoom369" alt="masoom369" />
   </a>
 </p>
-
-<!-- Personal Information -->
-
-- 🌱 I’m currently learning **web development**
-- 👨‍💻 All of my projects are available at [https://masoom369.github.io/Portfolio/](https://masoom369.github.io/Portfolio/)
-- 💬 Ask me about **any of my skills**
-- 📫 How to reach me: **masoom2305f@gmail.com**
 
 <!-- Connect with Me Section -->
 <h3 align="left">Connect with me:</h3>
