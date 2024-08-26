@@ -35,7 +35,7 @@
 
 - 💬 Ask me about **any of my skills**
 
-- 📫 How to reach me **masoom2305f@gmail.com**
+- 📫 How to reach me **masoom2305f@aptechgdn.net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
