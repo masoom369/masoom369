@@ -2,7 +2,6 @@
 <h1 align="center">Hi 👋, I'm Masoom</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 
-
 - 🌱 I’m currently learning **web development**
 
 - 👨‍💻 All of my projects are available at [masoom369/repos](https://github.com/masoom369?tab=repositories)
@@ -10,13 +9,6 @@
 - 💬 Ask me about **any of my skills**
 
 - 📫 How to reach me **masoom2305f@aptechgdn.net**
-
-<!-- GitHub Profile Trophy -->
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=masoom369" alt="masoom369" />
-  </a>
-</p>
 
 <!-- Connect with Me Section -->
 <h3 align="left">Connect with me:</h3>
@@ -31,7 +23,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left" style="background-color: white; padding: 10px; border-radius: 8px;">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
