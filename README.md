@@ -2,7 +2,24 @@
 <h1 align="center">Hi 👋, I'm Masoom</h1>
 <h3 align="center">A passionate web developer from Pakistan</h3>
 
-<!-- Profile Views Counter -->
+<<<<<<< HEAD
+
+# <!-- Profile Views Counter -->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=masoom369&label=Profile%20views&color=0e75b6&style=flat" alt="masoom369" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=masoom369" alt="masoom369" /></a> </p>
+
+- 🌱 I’m currently learning **web development**
+
+- 👨‍💻 All of my projects are available at [https://masoom369.github.io/Portfolio/](https://github.com/masoom369?tab=repositories)
+
+- 💬 Ask me about **any of my skills**
+
+- 📫 How to reach me **masoom2305f@aptechgdn.net**
+
+<h3 align="left">Connect with me:</h3>
+>>>>>>> f3052b2cd6059e4452eaf5ab45f1b7e87d19685b
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=masoom369&label=Profile%20views&color=0e75b6&style=flat" alt="masoom369" />
 </p>
@@ -15,6 +32,7 @@
 </p>
 
 <!-- Personal Information -->
+
 - 🌱 I’m currently learning **web development**
 - 👨‍💻 All of my projects are available at [https://masoom369.github.io/Portfolio/](https://masoom369.github.io/Portfolio/)
 - 💬 Ask me about **any of my skills**
