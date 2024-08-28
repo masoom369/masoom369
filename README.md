@@ -1,6 +1,5 @@
 <!-- Header Section -->
 <h1 align="center">Hi 👋, I'm Masoom</h1>
-<h3 align="center">A passionate web developer from Pakistan</h3>
 
 - 🌱 I’m currently learning **web development**
 
